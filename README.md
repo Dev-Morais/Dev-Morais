@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Gabriel Morais</h1>
+<h1 align="center">Olá 👋, sou Gabriel Morais</h1>
 
 <h3 align="center">
 💻 Desenvolvedor Front-End em formação
@@ -17,24 +17,19 @@
 
 # 🛠️ Tecnologias
 
-<div style="display: inline_block"><br>
+<p align="left">
 
-<img align="center" alt="HTML" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
 
-<img align="center" alt="CSS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
 
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 
-<img align="center" alt="Git" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 
-<img align="center" alt="GitHub" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 
-</div>
+</p>
 
 ---
 # 📈 Contribuições
