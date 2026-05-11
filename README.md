@@ -1,4 +1,5 @@
-<h1 align="center">Olá 👋, sou Gabriel Morais</h1>
+<h1 align="center">
+Olá 👋 sou Gabriel Morais</h1><br>
 
 <h3 align="center">
 💻 Desenvolvedor Front-End em formação
