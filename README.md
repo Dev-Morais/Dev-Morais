@@ -42,7 +42,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Dev-Morais">
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
